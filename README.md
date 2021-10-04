@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I am Maria
+I am a BSc Computer Science student at the Sofia University
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theultimatewitch&langs_count=5&theme=tokyonight)]()
