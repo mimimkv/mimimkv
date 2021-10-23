@@ -18,5 +18,8 @@ I am Maria
 
 I am a BSc Computer Science student at the Sofia University
 
+- 📫 How to reach me: mvmark@abv.bg
+- 🌱 I’m currently learning Java and Go
+- ⚡ Fun fact: I only code three days a week: yesterday, today & tomorrow
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theultimatewitch&langs_count=5&theme=tokyonight)]()
