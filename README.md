@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Maria
 
-I am a BSc Computer Science student at Sofia University
+I am a BS Computer Science student at Sofia University
 
 - 📫 How to reach me: mvmark@abv.bg
 - 🌱 I’m currently learning Java
