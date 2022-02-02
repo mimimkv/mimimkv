@@ -22,4 +22,4 @@ I am a BSc Computer Science student at Sofia University
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I only code three days a week: yesterday, today & tomorrow
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mimimkv&langs_count=10&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mimimkv&langs_count=4&theme=tokyonight)]()
