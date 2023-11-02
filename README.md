@@ -18,7 +18,7 @@ I am Maria
 
 I am a BS Computer Science student at Sofia University
 
-- 📫 How to reach me: mvmark@abv.bg
+- 📫 How to reach me: mimimkv11@gmail.com
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I only code three days a week: yesterday, today & tomorrow
 
