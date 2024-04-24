@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Maria
+$whoami: I am Maria
 
 I am a BS Computer Science student at Sofia University
 
